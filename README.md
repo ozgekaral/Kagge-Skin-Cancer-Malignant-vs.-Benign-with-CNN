@@ -1,6 +1,7 @@
 # Kagge-Skin-Cancer-Malignant-vs.-Benign-with-CNN
 
-![sample](file:///C:/Users/user202/Desktop/Yeni%20klas%C3%B6r/Downloads/skin_biology.webp)
+![sample]('https://bigumigu.com/haber/uc-boyutlu-baski-teknolojisiyle-uretilen-insan-derisi/')
+
 
 Hi,
 İmport ad Load
