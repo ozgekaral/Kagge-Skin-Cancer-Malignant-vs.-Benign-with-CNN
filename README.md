@@ -17,7 +17,7 @@ Model
 And than we may create a model to classify, we may add 'filters, kernel_size, input_shape, activation function' ets operations, In addition we have to implement max_polling and flatten and dropout operation to our model.Finally compile this model with that I describe kind of the 'optimizers, loss functions and metrics 'ets.
 We have to use epoch numbers and batch size etc while we fit the our model with values or functions that we adding and describe.We observe lost and accuracy end of the fit operation.
 
-If you want to test our model, 
+And we test this model with our test images
 
 
 
