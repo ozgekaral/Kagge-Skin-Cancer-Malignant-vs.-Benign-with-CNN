@@ -1,6 +1,5 @@
 # Kagge-Skin-Cancer-Malignant-vs.-Benign-with-CNN
 
-![sample]('https://bigumigu.com/haber/uc-boyutlu-baski-teknolojisiyle-uretilen-insan-derisi/')
 
 
 Hi,
