@@ -1,4 +1,4 @@
-# Kagge-Skin-Cancer-Malignant-vs.-Benign-with-CNN
+# Kagge-Skin-Cancer-Malignant-vs.-Benign-CNN
 
 
 
