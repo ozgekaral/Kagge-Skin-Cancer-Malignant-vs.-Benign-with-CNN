@@ -3,7 +3,7 @@
 
 
 Hi,
-İmport ad Load
+Import and Load
 Firstly if you want to review this data set you click the link https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
 We have the data set that include two classes which benign images and malignant images.And we make a classification on this data set.
 We import required libraries and load our data set.
